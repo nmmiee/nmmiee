@@ -1,6 +1,3 @@
-# About Me:
-Developer focused on SA-MP, scripting, and web development.<br>Currently building and improving game systems, server features, UI, and web-based projects.<br>Always learning, creating, and turning ideas into working projects.<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fakihnajmiii) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nmmmmmmie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fakihnajmifadil@gmail.com) 
