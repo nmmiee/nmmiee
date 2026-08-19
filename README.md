@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Developer focused on SA-MP, scripting, and web development.<br>Currently building and improving game systems, server features, UI, and web-based projects.<br>Always learning, creating, and turning ideas into working projects.<br>
 
 
